@@ -1,0 +1,4 @@
+/tetris-cli
+*.o
+plot_tests
+.DS_Store
