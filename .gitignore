@@ -2,3 +2,5 @@
 *.o
 plot_tests
 .DS_Store
+/tetris_tests
+/tetris_tests
